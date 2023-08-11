@@ -42,7 +42,3 @@
 * 修改完成後請記得進行存檔動作，並重新開啟專案，即可看到solarboat1模型向左偏移了10個單位。
 
 ![image](https://github.com/gaya7502/gazebo_object_move/blob/main/Screenshot%20from%202023-08-10%2017-16-21.png)
-...
-```
-* 修改完成後請記得進行存檔動作，並重新開啟專案，即可看到solarboat1模型向左偏移了10個單位。
-![image](https://github.com/gaya7502/gazebo_object_move/blob/main/Screenshot%20from%202023-08-10%2017-16-21.png)
